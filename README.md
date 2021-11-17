@@ -1,3 +1,3 @@
 # payload-do-mario
 
-🚀Cross Site Scripting ( XSS ) Vulnerability Payload Lis
+🚀Cross Site Scripting ( XSS ) Vulnerability Payload Lis 🚀 
